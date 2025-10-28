@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/bergenhem/socket-lab-js#readme",
   "dependencies": {
-    "lodash" : "4.17.4",
+    "lodash" : "4.17.12",
     "snaps" : "0.1.4"
   }
 }
